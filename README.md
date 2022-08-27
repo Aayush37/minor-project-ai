@@ -1,1 +1,3 @@
-# it worked after changing the background and normalization of a
+mod.h5-model that was trained
+new.py-script for creating canvas
+minor_projrct.ipynb
